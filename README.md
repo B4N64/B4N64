@@ -37,4 +37,4 @@ Ola devs!!
 
 
 
-![Snake animation](https://github.com/B4N64/B4N64/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/B4N64/blob/output/github-contribution-grid-snake.svg)
