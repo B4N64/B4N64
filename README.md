@@ -1,16 +1,40 @@
-### Hi there 👋
+#Samuel Alves
 
-<!--
-**B4N64/B4N64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ola devs!!
 
-Here are some ideas to get you started:
+<table border="1">
+    <tr>
+        <th colspan="3">Sobre mim</th>
+    </tr>
+    <tr>
+        <td>🔭 Atualmente estou trabalhando em Suporte e Manutenção em TI</td>
+    </tr>
+    <tr>
+        <td>🌱 Atualmente estou aprendendo React</td>
+    </tr>
+     <tr>
+        <td>⚡ Expriente em Python</td>
+    </tr>
+    <tr>
+        <td>😄Trabalhando e estudandando para os 7 digítos</td>
+    </tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+##Contact
+
+<div>
+<a href="https://www.instagram.com/muelxt/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:alvesfreitassamuel20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/samuel-alves-freitas-4b4207254/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+<div>
+<a href="https://github.com/B4N64">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B4N64&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=B4N64&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+
+
+![Snake animation](https://github.com/B4N64/B4N64/blob/output/github-contribution-grid-snake.svg)
